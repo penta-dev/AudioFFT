@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AudioFFT", "AudioFFT.csproj", "{DB74F079-3FFD-48FD-81DF-AEC5BC42F860}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB74F079-3FFD-48FD-81DF-AEC5BC42F860}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB74F079-3FFD-48FD-81DF-AEC5BC42F860}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB74F079-3FFD-48FD-81DF-AEC5BC42F860}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB74F079-3FFD-48FD-81DF-AEC5BC42F860}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E6FE265B-D040-4837-B956-339C5776B831}
+	EndGlobalSection
+EndGlobal
